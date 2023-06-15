@@ -1,34 +1,42 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
+import Routing from "./Routing";
+import pages from "./utils/constant";
+import { ThemeProvider, CssBaseline, Box } from "@mui/material";
+import { UserContext, UserContextWrapper } from "./context/userContext";
+import { MyProSidebarProvider } from "./pages/global/sidebar/SidebarContext";
+import { ColorModeContext, useMode } from "./theme";
+import Topbar from "./pages/global/TopBar";
+import { useLocation } from "react-router-dom";
+import { useContext, useEffect } from "react";
 
-function App() {
-  const [count, setCount] = useState(0)
+export const App: React.FC = () => {
+  const [theme, colorMode] = useMode();
+  const location = useLocation();
+  const {checkJwtValidity} = useContext(UserContext);
+
+  useEffect(() => {
+    checkJwtValidity()
+  }, [location])
+
 
   return (
-    <div className="App">
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src="/vite.svg" className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://reactjs.org" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR 
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </div>
-  )
-}
+    <UserContextWrapper>
+      <ColorModeContext.Provider value={colorMode}>
+        <ThemeProvider theme={theme}>
+          <CssBaseline />
+          <MyProSidebarProvider>
+            <Box className="app">
+              <main className="content">
+                <Topbar />
+                <Box marginLeft={{md: 2, s: 0}}>
+                  <Routing pages={pages} />
+                </Box>
+              </main>
+            </Box>
+          </MyProSidebarProvider>
+        </ThemeProvider>
+      </ColorModeContext.Provider>
+    </UserContextWrapper>
+  );
+};
 
-export default App
+export default App;

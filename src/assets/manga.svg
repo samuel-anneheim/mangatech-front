@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="1.1"
+  id="Capa_1"
+  x="0px"
+  y="0px"
+  viewBox="0 0 512 512"
+  style="enable-background:new 0 0 512 512;"
+  xml:space="preserve"
+  width="24"
+  height="24"
+>
+<g>
+	<g>
+		<g>
+			<g>
+				<path
+            style="fill:#F2EFF2;"
+            d="M95.532,496.768H18.868c-6.278,0-11.368-5.09-11.368-11.368V26.6&#10;&#9;&#9;&#9;&#9;&#9;c0-6.278,5.09-11.368,11.368-11.368h76.664c6.278,0,11.368,5.09,11.368,11.368v458.8&#10;&#9;&#9;&#9;&#9;&#9;C106.9,491.679,101.81,496.768,95.532,496.768z"
+          />
+				<path
+            style="fill:#E1DDE1;"
+            d="M106.895,26.602v458.796c0,6.275-5.082,11.368-11.368,11.368H54.579&#10;&#9;&#9;&#9;&#9;&#9;c6.275,0,11.368-5.093,11.368-11.368V26.602c0-6.275-5.093-11.368-11.368-11.368h40.948&#10;&#9;&#9;&#9;&#9;&#9;C101.814,15.234,106.895,20.327,106.895,26.602z"
+          />
+				<polygon
+            style="fill:#3AD1E0;"
+            points="106.9,209.07 106.9,339.91 7.5,339.91 7.5,226.7 65.95,216.33 &#9;&#9;&#9;&#9;"
+          />
+				<polygon
+            style="fill:#20BFD5;"
+            points="106.9,209.07 106.9,339.91 65.95,339.91 65.95,216.33 &#9;&#9;&#9;&#9;"
+          />
+				<path
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            d="&#10;&#9;&#9;&#9;&#9;&#9;M7.5,168.182V485.4c0,6.279,5.09,11.368,11.368,11.368h76.664c6.278,0,11.368-5.09,11.368-11.368V26.6&#10;&#9;&#9;&#9;&#9;&#9;c0-6.279-5.09-11.368-11.368-11.368H18.868C12.59,15.232,7.5,20.321,7.5,26.6v108.42"
+          />
+			</g>
+			<g>
+				<rect x="7.5" y="283.517" style="fill:#CA9AE5;" width="99.4" height="99.4" />
+				<rect
+            x="65.947"
+            y="283.517"
+            style="fill:#BC83DF;"
+            width="40.948"
+            height="99.4"
+          />
+				
+					<rect
+            x="7.5"
+            y="283.517"
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            width="99.4"
+            height="99.4"
+          />
+			</g>
+			
+				<line
+          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+          x1="57.2"
+          y1="64.046"
+          x2="57.2"
+          y2="182.305"
+        />
+			
+				<polyline
+          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+          points="&#10;&#9;&#9;&#9;&#9;61.102,353.747 61.102,313.274 53.298,321.077 &#9;&#9;&#9;"
+        />
+			<g>
+				
+					<line
+            id="XMLID_00000083767301452557176450000014653951719454075810_"
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            x1="57.2"
+            y1="449.599"
+            x2="57.2"
+            y2="449.481"
+          />
+				
+					<line
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            x1="45.14"
+            y1="420.428"
+            x2="69.26"
+            y2="420.428"
+          />
+			</g>
+		</g>
+		<g>
+			<g>
+				<path
+            style="fill:#F2EFF2;"
+            d="M194.932,496.768h-76.664c-6.278,0-11.368-5.09-11.368-11.368V26.6&#10;&#9;&#9;&#9;&#9;&#9;c0-6.278,5.09-11.368,11.368-11.368h76.664c6.278,0,11.368,5.09,11.368,11.368v458.8&#10;&#9;&#9;&#9;&#9;&#9;C206.3,491.679,201.21,496.768,194.932,496.768z"
+          />
+				<path
+            style="fill:#E1DDE1;"
+            d="M206.295,26.602v458.796c0,6.275-5.082,11.368-11.368,11.368h-40.948&#10;&#9;&#9;&#9;&#9;&#9;c6.275,0,11.368-5.093,11.368-11.368V26.602c0-6.275-5.093-11.368-11.368-11.368h40.948&#10;&#9;&#9;&#9;&#9;&#9;C201.214,15.234,206.295,20.327,206.295,26.602z"
+          />
+				<path
+            style="fill:#3AD1E0;"
+            d="M206.3,229.17v110.74h-99.4V209.07l16.807-2.984c1.946-0.346,3.913,0.488,5.019,2.126&#10;&#9;&#9;&#9;&#9;&#9;l20.925,31.008l15.7-2.79L206.3,229.17z"
+          />
+				<polygon
+            style="fill:#20BFD5;"
+            points="206.3,229.17 206.3,339.91 165.35,339.91 165.35,236.43 &#9;&#9;&#9;&#9;"
+          />
+				<path
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            d="&#10;&#9;&#9;&#9;&#9;&#9;M139.718,15.232h-21.45c-6.278,0-11.368,5.09-11.368,11.368v458.8c0,6.279,5.09,11.368,11.368,11.368h76.664&#10;&#9;&#9;&#9;&#9;&#9;c6.278,0,11.368-5.09,11.368-11.368V26.6c0-6.279-5.09-11.368-11.368-11.368H172.88"
+          />
+			</g>
+			<g>
+				<rect x="106.9" y="283.517" style="fill:#FB54B6;" width="99.4" height="99.4" />
+				<rect
+            x="165.347"
+            y="283.517"
+            style="fill:#FB33A8;"
+            width="40.948"
+            height="99.4"
+          />
+				
+					<rect
+            x="106.9"
+            y="283.517"
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            width="99.4"
+            height="99.4"
+          />
+			</g>
+			
+				<line
+          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+          x1="156.6"
+          y1="64.046"
+          x2="156.6"
+          y2="182.305"
+        />
+			<g>
+				
+					<line
+            id="XMLID_00000034051483622576336780000002975675395647818911_"
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            x1="156.6"
+            y1="449.599"
+            x2="156.6"
+            y2="449.481"
+          />
+				
+					<line
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            x1="144.54"
+            y1="420.428"
+            x2="168.66"
+            y2="420.428"
+          />
+			</g>
+		</g>
+		<g>
+			<g>
+				<path
+            style="fill:#F2EFF2;"
+            d="M294.332,496.768h-76.664c-6.278,0-11.368-5.09-11.368-11.368V26.6&#10;&#9;&#9;&#9;&#9;&#9;c0-6.278,5.09-11.368,11.368-11.368h76.664c6.278,0,11.368,5.09,11.368,11.368v458.8&#10;&#9;&#9;&#9;&#9;&#9;C305.7,491.679,300.61,496.768,294.332,496.768z"
+          />
+				<path
+            style="fill:#E1DDE1;"
+            d="M305.695,26.602v458.796c0,6.275-5.082,11.368-11.368,11.368h-40.948&#10;&#9;&#9;&#9;&#9;&#9;c6.275,0,11.368-5.093,11.368-11.368V26.602c0-6.275-5.093-11.368-11.368-11.368h40.948&#10;&#9;&#9;&#9;&#9;&#9;C300.614,15.234,305.695,20.327,305.695,26.602z"
+          />
+				<polygon
+            style="fill:#3AD1E0;"
+            points="305.7,211.53 305.7,339.91 206.3,339.91 206.3,229.17 264.75,218.8 &#9;&#9;&#9;&#9;"
+          />
+				<polygon
+            style="fill:#20BFD5;"
+            points="305.7,211.53 305.7,339.91 264.75,339.91 264.75,218.8 &#9;&#9;&#9;&#9;"
+          />
+				<path
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            d="&#10;&#9;&#9;&#9;&#9;&#9;M305.7,485.4c0,6.278-5.09,11.368-11.368,11.368h-76.664c-6.278,0-11.368-5.09-11.368-11.368V26.6&#10;&#9;&#9;&#9;&#9;&#9;c0-6.278,5.09-11.368,11.368-11.368h76.664c6.278,0,11.368,5.09,11.368,11.368"
+          />
+			</g>
+			<g>
+				<rect x="206.3" y="283.517" style="fill:#FB54B6;" width="99.4" height="99.4" />
+				<rect
+            x="264.747"
+            y="283.517"
+            style="fill:#FB33A8;"
+            width="40.948"
+            height="99.4"
+          />
+				
+					<rect
+            x="206.3"
+            y="283.517"
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            width="99.4"
+            height="99.4"
+          />
+			</g>
+			
+				<line
+          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+          x1="256"
+          y1="64.046"
+          x2="256"
+          y2="182.305"
+        />
+			<g>
+				
+					<line
+            id="XMLID_00000147904413334169321610000016010299010496543893_"
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            x1="256"
+            y1="449.599"
+            x2="256"
+            y2="449.481"
+          />
+				
+					<line
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            x1="243.94"
+            y1="420.428"
+            x2="268.06"
+            y2="420.428"
+          />
+			</g>
+		</g>
+		<g>
+			<g>
+				<path
+            style="fill:#F2EFF2;"
+            d="M393.732,496.768h-76.664c-6.278,0-11.368-5.09-11.368-11.368V26.6&#10;&#9;&#9;&#9;&#9;&#9;c0-6.278,5.09-11.368,11.368-11.368h76.664c6.278,0,11.368,5.09,11.368,11.368v458.8&#10;&#9;&#9;&#9;&#9;&#9;C405.1,491.679,400.01,496.768,393.732,496.768z"
+          />
+				<path
+            style="fill:#E1DDE1;"
+            d="M405.095,26.602v458.796c0,6.275-5.082,11.368-11.368,11.368h-40.948&#10;&#9;&#9;&#9;&#9;&#9;c6.275,0,11.368-5.093,11.368-11.368V26.602c0-6.275-5.093-11.368-11.368-11.368h40.948&#10;&#9;&#9;&#9;&#9;&#9;C400.014,15.234,405.095,20.327,405.095,26.602z"
+          />
+				<path
+            style="fill:#3AD1E0;"
+            d="M405.1,231.64v108.27h-99.4V211.53l19.16-3.395c1.515-0.268,3.068,0.175,4.213,1.203&#10;&#9;&#9;&#9;&#9;&#9;l33.277,29.882l1.8-0.32L405.1,231.64z"
+          />
+				<polygon
+            style="fill:#20BFD5;"
+            points="405.1,231.64 405.1,339.91 364.15,339.91 364.15,238.9 &#9;&#9;&#9;&#9;"
+          />
+				<path
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            d="&#10;&#9;&#9;&#9;&#9;&#9;M305.7,450.402V485.4c0,6.279,5.09,11.368,11.368,11.368h76.664c6.278,0,11.368-5.09,11.368-11.368V26.6&#10;&#9;&#9;&#9;&#9;&#9;c0-6.279-5.09-11.368-11.368-11.368h-76.664c-6.279,0-11.368,5.09-11.368,11.368v390.64"
+          />
+			</g>
+			<g>
+				<rect x="305.7" y="283.517" style="fill:#23F1A8;" width="99.4" height="99.4" />
+				<rect
+            x="364.147"
+            y="283.517"
+            style="fill:#27E19D;"
+            width="40.948"
+            height="99.4"
+          />
+				
+					<rect
+            x="305.7"
+            y="283.517"
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            width="99.4"
+            height="99.4"
+          />
+			</g>
+			
+				<line
+          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+          x1="355.4"
+          y1="64.046"
+          x2="355.4"
+          y2="182.305"
+        />
+			<g>
+				
+					<polyline
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            points="&#10;&#9;&#9;&#9;&#9;&#9;349.024,313.274 342.983,334.567 367.817,334.567 &#9;&#9;&#9;&#9;"
+          />
+				
+					<line
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            x1="367.817"
+            y1="353.747"
+            x2="367.817"
+            y2="313.274"
+          />
+			</g>
+			<g>
+				
+					<line
+            id="XMLID_00000030469423256458462850000007559778105353838735_"
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            x1="355.4"
+            y1="449.599"
+            x2="355.4"
+            y2="449.481"
+          />
+				
+					<line
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            x1="343.34"
+            y1="420.428"
+            x2="367.46"
+            y2="420.428"
+          />
+			</g>
+		</g>
+		<g>
+			<g>
+				<path
+            style="fill:#F2EFF2;"
+            d="M493.132,496.768h-76.664c-6.278,0-11.368-5.09-11.368-11.368V26.6&#10;&#9;&#9;&#9;&#9;&#9;c0-6.278,5.09-11.368,11.368-11.368h76.664c6.278,0,11.368,5.09,11.368,11.368v458.8&#10;&#9;&#9;&#9;&#9;&#9;C504.5,491.679,499.41,496.768,493.132,496.768z"
+          />
+				<path
+            style="fill:#E1DDE1;"
+            d="M504.495,26.602v458.796c0,6.275-5.082,11.368-11.368,11.368h-40.948&#10;&#9;&#9;&#9;&#9;&#9;c6.275,0,11.368-5.093,11.368-11.368V26.602c0-6.275-5.093-11.368-11.368-11.368h40.948&#10;&#9;&#9;&#9;&#9;&#9;C499.414,15.234,504.495,20.327,504.495,26.602z"
+          />
+				<polygon
+            style="fill:#3AD1E0;"
+            points="504.5,214 504.5,339.91 405.1,339.91 405.1,231.64 463.55,221.27 &#9;&#9;&#9;&#9;"
+          />
+				<polygon
+            style="fill:#20BFD5;"
+            points="504.5,214 504.5,339.91 463.55,339.91 463.55,221.27 &#9;&#9;&#9;&#9;"
+          />
+				<path
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            d="&#10;&#9;&#9;&#9;&#9;&#9;M493.132,496.768h-76.664c-6.278,0-11.368-5.09-11.368-11.368V26.6c0-6.278,5.09-11.368,11.368-11.368h76.664&#10;&#9;&#9;&#9;&#9;&#9;c6.278,0,11.368,5.09,11.368,11.368v458.8C504.5,491.679,499.41,496.768,493.132,496.768z"
+          />
+			</g>
+			<g>
+				<rect x="405.1" y="283.517" style="fill:#FCB44D;" width="99.4" height="99.4" />
+				<rect
+            x="463.547"
+            y="283.517"
+            style="fill:#FCA62F;"
+            width="40.948"
+            height="99.4"
+          />
+				
+					<rect
+            x="405.1"
+            y="283.517"
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            width="99.4"
+            height="99.4"
+          />
+			</g>
+			
+				<line
+          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+          x1="454.8"
+          y1="64.046"
+          x2="454.8"
+          y2="182.305"
+        />
+			<g>
+				
+					<line
+            id="XMLID_00000129884130891781711600000003474930465510402742_"
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            x1="454.8"
+            y1="449.599"
+            x2="454.8"
+            y2="449.481"
+          />
+				
+					<line
+            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+            x1="442.74"
+            y1="420.428"
+            x2="466.86"
+            y2="420.428"
+          />
+			</g>
+		</g>
+	</g>
+	<path
+      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+      d="&#10;&#9;&#9;M148.876,324.899c0-6.42,5.205-11.625,11.625-11.625s11.625,5.205,11.625,11.625c0,14.391-23.251,17.12-23.251,28.848h23.251"
+    />
+	<g>
+		<path
+        style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+        d="&#10;&#9;&#9;&#9;M245.996,313.274h22.283L256,329.19c6.781,0,12.278,5.497,12.278,12.278s-5.497,12.278-12.278,12.278s-12.278-5.497-12.278-12.278&#10;&#9;&#9;&#9;"
+      />
+	</g>
+	<g>
+		<path
+        style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+        d="&#10;&#9;&#9;&#9;M466.86,314.741h-18.752v16.875h8.419c5.706,0,10.333,4.626,10.333,10.333s-4.626,10.332-10.333,10.332h-8.419"
+      />
+	</g>
+	<path
+      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"
+      d="&#10;&#9;&#9;M504.5,214l-142.15,25.22l-33.276-29.881c-1.145-1.028-2.699-1.472-4.214-1.203L149.65,239.22l-20.925-31.008&#10;&#9;&#9;c-1.105-1.638-3.072-2.471-5.018-2.126L7.5,226.7"
+    />
+</g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</svg>

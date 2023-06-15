@@ -1,0 +1,32 @@
+<svg
+  id="Capa_1"
+  enable-background="new 0 0 512 512"
+  height="21"
+  viewBox="0 0 512 512"
+  width="21"
+  xmlns="http://www.w3.org/2000/svg"
+><g><path
+      d="m361 105v45h-75v-45c0-16.54-13.46-30-30-30s-30 13.46-30 30v90h-75v-90c0-57.9 47.1-105 105-105s105 47.1 105 105z"
+      fill="#613d5c"
+    /><path
+      d="m361 105v45h-75v-45c0-16.54-13.46-30-30-30v-75c57.9 0 105 47.1 105 105z"
+      fill="#4b2746"
+    /><g><g><g><g><path
+              d="m0 362v150h512v-150z"
+              fill="#fff5f5"
+            /></g></g></g></g><path
+      d="m256 362h256v150h-256z"
+      fill="#d5e8fe"
+    /><g><path d="m91 422h30v30h-30z" fill="#613d5c" /></g><g><path
+        d="m151 422h30v30h-30z"
+        fill="#613d5c"
+      /></g><g><path d="m211 422h30v30h-30z" fill="#613d5c" /></g><g><path
+        d="m271 422h30v30h-30z"
+        fill="#4b2746"
+      /></g><g><path d="m331 422h30v30h-30z" fill="#4b2746" /></g><g><path
+        d="m391 422h30v30h-30z"
+        fill="#4b2746"
+      /></g><g><path d="m121 180v152h270v-152z" fill="#fabe2c" /></g><path
+      d="m256 180h135v152h-135z"
+      fill="#ff9100"
+    /></g></svg>
