@@ -77,7 +77,7 @@ export const MySidebar: React.FC = () => {
                 broken={broken}
               />
               <Item
-                title="accueil"
+                title="Accueil"
                 to="/"
                 selected={selected}
                 setSelected={setSelected}
